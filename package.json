@@ -1,10 +1,10 @@
 {
-  "name": "Yaxi",
+  "name": "dimod",
   "version": "2.1.0",
   "description": "PALYING ACCOUNT",
-  "main": "Yaxi.js",
+  "main": "dimod.js",
   "scripts": {
-    "start": "node Yaxi.js"
+    "start": "node dimod.js"
   },
   "dependencies": {
     "discord.js": "11.4.2",
